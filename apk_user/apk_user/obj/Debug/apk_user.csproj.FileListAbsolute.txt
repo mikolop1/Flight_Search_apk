@@ -29,3 +29,4 @@ D:\3D\unreal projects\Flight_apk\Flight_Search_apk\apk_user\apk_user\obj\Debug\a
 D:\3D\unreal projects\Flight_apk\Flight_Search_apk\apk_user\apk_user\obj\Debug\apk_user.exe
 D:\3D\unreal projects\Flight_apk\Flight_Search_apk\apk_user\apk_user\obj\Debug\apk_user.pdb
 D:\3D\unreal projects\Flight_apk\Flight_Search_apk\apk_user\apk_user\obj\Debug\apk_user.podsumowanie.resources
+D:\3D\unreal projects\School-Project\apk_user\apk_user\obj\Debug\apk_user.podsumowanie.resources

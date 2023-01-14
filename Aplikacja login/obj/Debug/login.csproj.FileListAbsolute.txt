@@ -50,3 +50,7 @@ D:\3D\unreal projects\Flight_apk\Flight_Search_apk\Aplikacja login\obj\Debug\log
 D:\3D\unreal projects\Flight_apk\Flight_Search_apk\Aplikacja login\obj\Debug\login.csproj.CopyComplete
 D:\3D\unreal projects\Flight_apk\Flight_Search_apk\Aplikacja login\obj\Debug\login.exe
 D:\3D\unreal projects\Flight_apk\Flight_Search_apk\Aplikacja login\obj\Debug\login.pdb
+D:\3D\unreal projects\School-Project\Aplikacja login\bin\Debug\login.exe.manifest
+D:\3D\unreal projects\School-Project\Aplikacja login\bin\Debug\login.application
+D:\3D\unreal projects\School-Project\Aplikacja login\obj\Debug\login.exe.manifest
+D:\3D\unreal projects\School-Project\Aplikacja login\obj\Debug\login.application
