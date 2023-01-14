@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="apk_user.exe" size="153088">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="apk_user.exe" size="156672">
       <assemblyIdentity name="apk_user" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5xVlzdSPxpBmxIpcVyDF+URL/46t1NGm4AdRjY2slsA=</dsig:DigestValue>
+        <dsig:DigestValue>pS/lQi+2adQFArGdJx6F9toOkDroCO1QDmr8G2P3HOM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -85,7 +85,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>LsSjAVpPA11TuGLO86QL6DbTwD4Zxtusa+ueP0in96U=</dsig:DigestValue>
+        <dsig:DigestValue>uQ/DCIo00JnSV3bjcK7RsSkPTwm9ClShndu45p95UqE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
