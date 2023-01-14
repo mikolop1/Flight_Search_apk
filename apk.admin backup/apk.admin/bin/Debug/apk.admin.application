@@ -7,14 +7,14 @@
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="apk.admin.exe.manifest" size="3888">
+    <dependentAssembly dependencyType="install" codebase="apk.admin.exe.manifest" size="4890">
       <assemblyIdentity name="apk.admin.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>lhhLBOHXMijdfZcbT4olHNs10uAzIIKr7mabPyI5NWc=</dsig:DigestValue>
+        <dsig:DigestValue>QE18i6gI2TIBJNKbtZD3mlhhj+61di6OxpaL+2I7BL8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
