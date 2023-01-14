@@ -1,0 +1,15 @@
+D:\3D\unreal projects\School-Project\apk_user\apk_user\bin\Debug\apk_user.exe.config
+D:\3D\unreal projects\School-Project\apk_user\apk_user\bin\Debug\apk_user.exe
+D:\3D\unreal projects\School-Project\apk_user\apk_user\bin\Debug\apk_user.pdb
+D:\3D\unreal projects\School-Project\apk_user\apk_user\obj\Debug\apk_user.csproj.AssemblyReference.cache
+D:\3D\unreal projects\School-Project\apk_user\apk_user\obj\Debug\apk_user.csproj.SuggestedBindingRedirects.cache
+D:\3D\unreal projects\School-Project\apk_user\apk_user\obj\Debug\apk_user.Form1.resources
+D:\3D\unreal projects\School-Project\apk_user\apk_user\obj\Debug\apk_user.wyszlotow.resources
+D:\3D\unreal projects\School-Project\apk_user\apk_user\obj\Debug\apk_user.Properties.Resources.resources
+D:\3D\unreal projects\School-Project\apk_user\apk_user\obj\Debug\apk_user.zabukowaneuser.resources
+D:\3D\unreal projects\School-Project\apk_user\apk_user\obj\Debug\apk_user.csproj.GenerateResource.cache
+D:\3D\unreal projects\School-Project\apk_user\apk_user\obj\Debug\apk_user.csproj.CoreCompileInputs.cache
+D:\3D\unreal projects\School-Project\apk_user\apk_user\obj\Debug\apk_user.exe
+D:\3D\unreal projects\School-Project\apk_user\apk_user\obj\Debug\apk_user.pdb
+D:\3D\unreal projects\School-Project\apk_user\apk_user\obj\Debug\apk_user.daneuser.resources
+D:\3D\unreal projects\School-Project\apk_user\apk_user\obj\Debug\apk_user.UserControl1.resources
