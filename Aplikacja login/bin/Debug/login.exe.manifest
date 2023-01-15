@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="login.exe" version="1.0.0.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="login.exe" version="1.0.0.6" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="login" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -49,31 +49,31 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fyxTSn2t0MoJtYVQCUBoOBQ4dbgkJ+LeLCbpQHmh6DE=</dsig:DigestValue>
+        <dsig:DigestValue>BLAowzqsbnjghCmVfHry9N2ThBd09RjQz55ZH2UxOD4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="apk_user.exe" size="156672">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="apk_user.exe" size="157696">
       <assemblyIdentity name="apk_user" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+tf0JW/rrHbDEwIVhlBnmdq9AyIUW1y0XDHoeIMfdJw=</dsig:DigestValue>
+        <dsig:DigestValue>gdu96sgMshphpZAfRj/Hh4FD8eVJgMSvggHKCjn0avg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="login.exe" size="5575616">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="login.exe" size="5577664">
       <assemblyIdentity name="login" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2nSHfZ3t1Qud7hNCrrI8H59RrM3ds1l+AVg2cx0HnhY=</dsig:DigestValue>
+        <dsig:DigestValue>MTdPE4hUg0BICDJp9hgsIYIn5j6RACSOlLcDwnNxRs8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -85,7 +85,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cwG4vm/ZNjhUrFCsmxoTeq3cjl2rJLzlHuervsCz78Q=</dsig:DigestValue>
+        <dsig:DigestValue>4hizVv4OfdL/IKrqCDF5GHBIGCeq6ndQB5kkmiPIspA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
